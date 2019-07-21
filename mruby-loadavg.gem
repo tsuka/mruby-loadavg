@@ -1,0 +1,7 @@
+name: mruby-loadavg
+description: Loadavg class
+author: Akihito Tsukamoto
+website: https://github.com/tsuka05/mruby-loadavg
+protocol: git
+repository: https://github.com/tsuka05/mruby-loadavg.git
+license: MIT
